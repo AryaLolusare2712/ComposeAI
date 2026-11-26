@@ -1,5 +1,9 @@
 # ComposeAI - AI-powered email composition
 
+## Project contribution
+
+Shows how AI can help transform rough email drafts into clearer, more professional communication while retaining the writer's intent.
+
 ## Architecture
 
 ```mermaid
