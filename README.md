@@ -1,4 +1,14 @@
 # ComposeAI - AI-powered email composition
+
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Email draft] --> UI[ComposeAI interface]
+  UI --> L[LLM rewriting service]
+  L --> O[Tone, clarity, and style suggestions]
+  O --> U
+```
 A powerful AI-powered assistant for rewriting and improving emails with better tone, clarity, and professionalism.
 
 ## 🌟 Features
